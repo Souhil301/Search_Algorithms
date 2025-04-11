@@ -503,7 +503,6 @@ class UserInterface:
         ║                          ├┤ │││ │ │ │││  │                               ║
         ║                          └  ┴ ┴ ┴ └─┘└─┘ ┴                               ║
         ║                                                                          ║     
-        ║                     S.MOKEDDEM       O.BOUSSAHLA                         ║                                                
         ║                                                                          ║
         ║                BIOINFORMATIQUE PATTERN MATCHER - USTHB                   ║
         ║                                                                          ║
