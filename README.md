@@ -71,3 +71,23 @@ python app.py
 ### or
 python3 app.py
 
+
+
+## 👥 Authors
+
+Built by:
+
+**Oussama BOUSSAHLA**  
+GitHub: [@BSHLoussama](https://github.com/BSHLoussama)  
+Email: oussamaboussahla2017@gmail.com
+
+**Souhil MOKEDEM**  
+GitHub: [@Souhil301](https://github.com/Souhil301)  
+Email: mokeddemsouhil968@gmail.com
+
+---
+
+## 📝 License
+
+MIT License — feel free to use, share, and modify.
+
