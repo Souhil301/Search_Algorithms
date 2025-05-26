@@ -77,13 +77,13 @@ python3 app.py
 
 Built by:
 
-**Oussama BOUSSAHLA**  
-GitHub: [@BSHLoussama](https://github.com/BSHLoussama)  
-Email: oussamaboussahla2017@gmail.com
-
 **Souhil MOKEDEM**  
 GitHub: [@Souhil301](https://github.com/Souhil301)  
 Email: mokeddemsouhil968@gmail.com
+
+**Oussama BOUSSAHLA**  
+GitHub: [@BSHLoussama](https://github.com/BSHLoussama)  
+Email: oussamaboussahla2017@gmail.com
 
 ---
 
